@@ -11,3 +11,10 @@ mad: 2,
 sad: 3
 }
 end
+
+def emotion
+  @emotions.each do |emotion, value|
+end
+
+
+Paul = Person.new("Paul")
